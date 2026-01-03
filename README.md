@@ -4,6 +4,13 @@ A machine learning-based system that predicts diseases based on patient-reported
 
 ---
 
+## Google Colab Notebook
+You can view and run the complete project notebook here:
+
+🔗 https://colab.research.google.com/drive/1h963gLaNJoaxruqhA-p7klKaH2IY21i-?usp=sharing
+
+---
+
 ## Project Overview
 This project aims to assist in early-stage medical decision-making by predicting possible diseases from a given set of symptoms. The system is built using classical machine learning models and demonstrates a complete end-to-end ML pipeline.
 
